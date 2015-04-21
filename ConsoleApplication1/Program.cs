@@ -10,6 +10,7 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
+            // Test
             Console.WriteLine("Version: " + Environment.Version.ToString());
             Console.ReadKey();
         }
